@@ -18,3 +18,24 @@ input[type="email"] {
 ::placeholder {
   color: #fff;
 }
+.container div {
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+/* .container div:nth-child(1),
+.container div:nth-child(3) {
+  background-color: red;
+}
+.container div:nth-child(2),
+.container div:nth-child(4) {
+  background-color: blue;
+} */
+.container div:nth-child(odd) {
+  background-color: red;
+}
+/* Selectionner nombre pair */
+.container div:nth-child(even) {
+  background-color: blue;
+}
+/* .container div:nth-of-type() */

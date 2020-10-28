@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+div {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin: 50px;
+  padding: 20px;
+  overflow: scroll;
+}
