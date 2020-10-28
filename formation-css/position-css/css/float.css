@@ -1,0 +1,12 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  float: left;
+}
+#test2 {
+  background-color: blue;
+}
+.clear {
+  clear: both;
+}

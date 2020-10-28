@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+div {
+  height: 100px;
+  background-color: red;
+  width: 100px;
+  display: inline-block;
+}
+.test1 {
+  background-color: blue;
+}
